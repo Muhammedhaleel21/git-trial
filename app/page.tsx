@@ -61,7 +61,7 @@ export default function Home() {
           </a>
         </div>
           <Button>Hello Next.js</Button>
-          <Button>Hello Everyone</Button>
+          <Button className="cursor-pointer">Hello Everyone</Button>
       </main>
     </div>
   );
