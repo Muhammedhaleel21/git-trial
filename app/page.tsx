@@ -61,6 +61,7 @@ export default function Home() {
           </a>
         </div>
           <Button>Hello Next.js</Button>
+          <Button>Hello Everyone</Button>
       </main>
     </div>
   );
